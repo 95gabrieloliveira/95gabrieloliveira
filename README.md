@@ -2,7 +2,7 @@
 
 
 <div>
- <a href="https://www.linkedin.com/in/95gabrieloliveira/">
+ <a href="https://www.linkedin.com/in/95gabrieloliveira target="_blank"/">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=95gabrieloliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=95gabrieloliveira&layout=compact&langs_count=7&theme=dracula"/>
   
